@@ -1,0 +1,7 @@
+.lightbox {
+        display: inline-block;
+        position: relative;
+        transition: all 1s;
+        height: 6em;
+        vertical-align: top;
+}
