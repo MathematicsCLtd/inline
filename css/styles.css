@@ -20,3 +20,11 @@
 .lightbox > img {
         height: 100%;
 }
+
+.lightbox.open {
+        height: 80vh;
+}
+
+.lightbox.open::after {
+        content: "\00d7";
+}
